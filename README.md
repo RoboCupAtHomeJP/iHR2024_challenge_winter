@@ -8,8 +8,8 @@
 ## 大会開催情報
 
 第12回インテリジェントホームロボティクス研究会
-大会ホームページ: https://sites.google.com/view/intelligenthomerobotics/activity/iHR12
-会期：TBD
+大会ホームページ: https://sites.google.com/view/intelligenthomerobotics/activity/iHR12 \
+会期：TBD \
 場所：TBD
 
 ## 参加登録
