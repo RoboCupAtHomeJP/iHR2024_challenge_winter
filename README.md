@@ -1,27 +1,24 @@
 [日本語](README.md) | [English](README_en.md)
 
-# RoboCup JapanOpen 2024 @Home League
+# iHR2024 Challenge in Winter
 
-本リポジトリは大会参加者向けの「各種情報」と「競技ルール」を発信するためのリポジトリです．
-
-> [!NOTE]  
-> 本大会から今まで分離していた情報発信とルールのリポジトリを統合しました．
+本リポジトリはiHR2024チャレンジ参加者向けの「各種情報」と「競技ルール」を発信するためのリポジトリです．
 
 
 ## 大会開催情報
 
-ロボカップジャパンオープン2024  
-大会ホームページ： https://www.robocup.or.jp/JapanOpen2024/  
-会期：4/25-4/29  
-場所：滋賀ダイハツアリーナ  
+第12回インテリジェントホームロボティクス研究会
+大会ホームページ: https://sites.google.com/view/intelligenthomerobotics/activity/iHR12
+会期：TBD
+場所：TBD
 
 ## 参加登録
-本登録をするためには事前に仮登録を行いチームコードを取得する必要があります．詳細は[RoboCup Japan Open @Home League公式サイト](https://sites.google.com/site/robocuphomejapan/japanopen2024)をご覧ください．
+本登録をするためには事前に仮登録を行いチームコードを取得する必要があります．詳細は[参加申し込み](https://sites.google.com/view/intelligenthomerobotics/activity/iHR12)をご覧ください．
 
 ## 締切
-- 仮登録締切: 2024-03-19
-- 本登録締切: 2024-03-22
-- 参加費支払い期間: 2024-04-01 - 2024-04-05
+- 仮登録締切: TBD
+- 本登録締切: TBD
+- 参加費支払い期間: TBD
 
 
 ## Discord
