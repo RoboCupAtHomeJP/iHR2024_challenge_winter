@@ -9,8 +9,8 @@ This repository reflects the "Information" and "Rules" for the iHR2024 Challenge
 
 The 12th Intelligent Home Robotics Conference (Challenge) will be held as it follows.
   
-Competition Website: https://sites.google.com/view/intelligenthomerobotics/activity/iHR12
-Competition Dates: TBD
+Competition Website: https://sites.google.com/view/intelligenthomerobotics/activity/iHR12 \
+Competition Dates: TBD \
 Location: TBD
 
 ## Registration
