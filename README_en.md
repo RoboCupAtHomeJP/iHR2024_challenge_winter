@@ -4,6 +4,7 @@
 
 This repository reflects the "Information" and "Rules" for the iHR2024 Challenge participant teams.
 
+
 ## Competition Information
 
 The 12th Intelligent Home Robotics Conference (Challenge) will be held as it follows.
@@ -12,32 +13,57 @@ Competition Website: https://sites.google.com/view/intelligenthomerobotics/activ
 
 ### Dates
 
-* 30 Nov.: Competition
-* 1 Dec.: Workshop
+| Dates | Content |
+|---|---|
+| 11/30 | Competition |
+| 12/01 | Workshop & Conference |
 
 ### Venue
 
-* Tamagawa University
+* Tamagawa University [map](https://maps.app.goo.gl/GFWpf5UczVD4ue2N8)
+
 
 ## Registration
 
 There are three types of registration.
 
-* Competition (23 Nov.)
-* Workshop (29 Nov.)
-* Participation (23 Nov.)
+| Deadlines | Content |
+| --- | --- |
+| 11/23 | Competition |
+| 11/29 | Workshop & Conference |
+| 11/23 | Participation |
+
+> [!Note]
+> Registration fees are not applied.
+
+> [!Caution]
+> All participants and/or attendee in the workshop, conference and/or competitions are **required to register individually** in addition to the above registration.
 
 Please check and apply from the link below.
 
 https://sites.google.com/view/intelligenthomerobotics/activity/iHR12#h.kmiowpucv97u
 
+
 ## Discord
 
-Please join at least one person from the team. Important information will be shared in a Discord server.
+Please join at least one person from the team.
+Important information will be shared through the Discord server.
+
 [Discord Invitation Link](https://discord.gg/8gJYJqUVZA)
 
-## Rules
 
-* Storing Groceries
-* Carry My Luggage
-* Restaurant
+## Rules (TBD)
+
+### Overall Rules
+
+* [General Rules and Regulations](./rules/ALL/)
+
+### Tasks
+
+* [Carry My Luggage](./rules/ALL/)
+* [Storing Groceries](./rules/ALL/)
+* [Restaurant](./rules/ALL/)
+
+### Detailed Information
+
+* [Object List](./rules/ALL/)
