@@ -57,7 +57,7 @@ https://sites.google.com/view/intelligenthomerobotics/activity/iHR12#h.kmiowpucv
 
 ### Overall Rules
 
-* [General Rules and Regulations](./rules/ALL/)
+* [General Rules and Regulations](./rules/ALL/grr_ja.md)
 
 ### Tasks
 

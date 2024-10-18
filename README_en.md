@@ -56,7 +56,7 @@ Important information will be shared through the Discord server.
 
 ### Overall Rules
 
-* [General Rules and Regulations](./rules/ALL/)
+* [General Rules and Regulations](./rules/ALL/grr_en.md)
 
 ### Tasks
 
