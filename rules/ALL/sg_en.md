@@ -21,18 +21,18 @@ The robot needs to categorize the objects from the table to the cabinet, placing
 ## Setup
 
 - **Locations**: The competition will take place inside the arena.
-  * **Starting Location:** Before the test, the robot waits outside the Arena (in front of the `Entrance`) and navigates to the `testing location` when the door is open.
-  * **Testing location:** This area has a shelf and a table nearby.
+  - **Starting Location**: Before the test, the robot waits outside the Arena (in front of the `Entrance`) and navigates to the `testing location` when the door is open.
+  - **Testing location**: This area has a shelf and a table nearby.
 - **People**: No people are involved in the test, unless the robot requires human assistance.
 - **Furniture**
-  * **Table**: The table has 5-10 objects placed on it and the robot can choose which ones to grasp and in what order.
+  - **Table**: The table has 5-10 objects placed on it and the robot can choose which ones to grasp and in what order.
   <!-- On small tables, objects will be added as the robot frees up space. -->
-  * **Cabinet**: The cabinet contains objects on different shelves.
-  <!-- * **Cabinet door:** The cabinet door is open by default, but the team leader can request the door to be closed and score additional points for opening it. If the robot fails to open the door, it must clearly state this and request the referee to open it. -->
+  - **Cabinet**: The cabinet contains objects on different shelves.
+  <!-- - **Cabinet door**: The cabinet door is open by default, but the team leader can request the door to be closed and score additional points for opening it. If the robot fails to open the door, it must clearly state this and request the referee to open it. -->
 - **Time Limit**: Ten (10) minutes
 - **Objects**: The objects will be selected from the announced object list. There will be no unknown objects.
-  * **Table objects**: The objects on the table are arranged arbitrarily.
-  * **Cabinet objects**: The objects on the cabinet are arranged in groups based on category or likeliness.
+  - **Table objects**: The objects on the table are arranged arbitrarily.
+  - **Cabinet objects**: The objects on the cabinet are arranged in groups based on category or likeliness.
 
 ## Procedure
 
@@ -44,7 +44,7 @@ The robot needs to categorize the objects from the table to the cabinet, placing
 
 ### Storing Phase
 
-1. **Navigation:** The robot moves to the `testing location` when the arena door is open, and goes towards the table where the objects are placed.
+1. **Navigation**: The robot moves to the `testing location` when the arena door is open, and goes towards the table where the objects are placed.
 2. **Detection**: The robot detects and announce the object to be grasped.
 3. **Picking**: The robot picks up the object which was previously announced during the `detection` section.
 4. **Sorting**: The robot moves towards the cabinet, and finds the location to be placed. In this case, the robot needs to reason why that location was selected.
@@ -52,7 +52,7 @@ The robot needs to categorize the objects from the table to the cabinet, placing
 6. **Bonus**: During the `Picking` and `Placing` section, the robot may face up `tiny` and/or `heavy` obstacles which are defined in the object list.
 
 > [!IMPORTANT]
-**New category:** Objects that do not semantically belong to any of the categories represented on the shelves should be grouped together on a new shelf.
+**New category**: Objects that do not semantically belong to any of the categories represented on the shelves should be grouped together on a new shelf.
 
 
 ## Deus ex Machina
