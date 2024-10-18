@@ -27,11 +27,11 @@ Then, it will autonomously return to the `starting point`.
 - **Locations**: The competition will take place both inside and outside the arena.
   - **Known Environment**: The `inside` of the Arena can be mapped in advance 
   - **Unknown Environment**: Mapping the `outside` of the arena is not allowed.
-  - **Starting Location**: The robot starts at a predefined location in the `living room`, and will be announced on the setup day.
+  - **Starting Location**: The robot starts at a predefined location in the `living room`, and will be announced on the `setup day`.
   - **Goal Location**: The robot final location to hand the bag is decided by the TC during the beginning of the task.
 - **Objects**: At least two (2) paper bags will be used.
   - **Placement**: Those are placed near the operator (within 2\[m\] distance and visible to the robot).
-  - **Size**: The bags size will be within 350 x 100 x 350\[mm\] and will be used and announced on the setup day.
+  - **Size**: The bags size will be within 350 x 100 x 350\[mm\] and will be used and announced on the `setup day`.
 - **People**: The operator will point to the paper bag to be used during the competition while standing in front of the robot. The operator will be selected from volunteers.
 - **Time Limit**: 7 minutes
 
