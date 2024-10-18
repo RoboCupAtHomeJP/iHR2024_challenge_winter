@@ -60,7 +60,7 @@ Important information will be shared through the Discord server.
 
 ### Tasks
 
-* [Carry My Luggage](./rules/ALL/)
+* [Carry My Luggage](./rules/ALL/cml_en.md)
 * [Storing Groceries](./rules/ALL/)
 * [Restaurant](./rules/ALL/)
 

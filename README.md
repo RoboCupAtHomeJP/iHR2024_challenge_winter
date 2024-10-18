@@ -61,7 +61,7 @@ https://sites.google.com/view/intelligenthomerobotics/activity/iHR12#h.kmiowpucv
 
 ### Tasks
 
-* [Carry My Luggage](./rules/ALL/)
+* [Carry My Luggage](./rules/ALL/cml_ja.md)
 * [Storing Groceries](./rules/ALL/)
 * [Restaurant](./rules/ALL/)
 
