@@ -129,7 +129,7 @@ support from other teams will be requested.
 
 ### To Scorer
 
-Scorers are selected according to the `General Rules` [Scoring System](./gr_en.md#scoring-system) and will perform the following tasks:
+Scorers are selected according to the `General Rules` [Scoring System](./grr_en.md#scoring-system) and will perform the following tasks:
 
 - Gather **thirty (30) minutes before** the test starts.
 - Receive instructions about the score sheet, guests' information and command.
