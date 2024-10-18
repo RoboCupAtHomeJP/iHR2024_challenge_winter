@@ -53,7 +53,7 @@ https://sites.google.com/view/intelligenthomerobotics/activity/iHR12#h.kmiowpucv
 [Discord参加リンク](https://discord.gg/8gJYJqUVZA)
 
 
-## ルール (TBD)
+## ルール
 
 ### Overall Rules
 
@@ -62,9 +62,12 @@ https://sites.google.com/view/intelligenthomerobotics/activity/iHR12#h.kmiowpucv
 ### Tasks
 
 * [Carry My Luggage](./rules/ALL/cml_ja.md)
-* [Storing Groceries](./rules/ALL/)
-* [Restaurant](./rules/ALL/)
+* (TBD)Storing Groceries
+<!-- * [Storing Groceries](./rules/ALL/sg_ja.md) -->
+* (TBD)Restaurant
+<!-- * [Restaurant](./rules/ALL/res_ja.md) -->
 
 ### Detailed Information
 
-* [Object List](./rules/ALL/)
+* (TBD)Object List
+<!-- * [Object List](./rules/ALL/sd/object_list.md) -->

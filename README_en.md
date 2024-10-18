@@ -52,7 +52,7 @@ Important information will be shared through the Discord server.
 [Discord Invitation Link](https://discord.gg/8gJYJqUVZA)
 
 
-## Rules (TBD)
+## Rules
 
 ### Overall Rules
 
@@ -61,9 +61,12 @@ Important information will be shared through the Discord server.
 ### Tasks
 
 * [Carry My Luggage](./rules/ALL/cml_en.md)
-* [Storing Groceries](./rules/ALL/)
-* [Restaurant](./rules/ALL/)
+* (TBD)Storing Groceries
+<!-- * [Storing Groceries](./rules/ALL/sg_en.md) -->
+* (TBD)Restaurant
+<!-- * [Restaurant](./rules/ALL/res_en.md) -->
 
 ### Detailed Information
 
-* [Object List](./rules/ALL/)
+* (TBD)Object List
+<!-- * [Object List](./rules/ALL/sd/object_list.md) -->
