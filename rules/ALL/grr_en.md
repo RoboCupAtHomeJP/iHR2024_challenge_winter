@@ -105,34 +105,29 @@ however, minor unevenness, such as carpets, transitions in floor covering betwee
 <!-- OPL -->
 The minimal configuration consists of:
 - a living room with:
-  - a bin_a
-  - a bin_b
-  - a bin_c
-  - a bin_d
-  - a long_table_a with:
-    - a tray_a
-    - a tray_b
-    - a container_a
-    - a container_b
-  - a long_table_b with:
-  - a tall_table
+  - four (4) containers
+  - a long table (a):
+    - two (2) trays
+    - a pen stand
+    - a container
+  - a long table (b)
+  - a tall table
 - a dining room with:
   - a shelf
-  - a chair_a
-  - a chair_b
+  - two chairs
 
 > [!NOTE]
 > Further furniture might be added/substituted depending on the competition task to be performed.
 
 ### Objects
 
-Some tests in the *RCJ2024* involve recognizing and manipulating objects.
+Some tests in the *iHR2024* involve recognizing and manipulating objects.
 The TC will compile a list of objects for this purpose;
 the list will contain a *picture of the each object*, as well as its *official name* and *Object Category* (for example, *Noodle* belongs to the *Food* category).
 Most objects are likely to be lightweight and easy to grasp with one hand.
 Every *Object Category* has an assigned *Predefined Location*,
 where objects of that category can usually be found or placed during tests (for example, an *Food* can be found or placed on the *Kitchen Table*);
-assignments are announced during the *Setup Days*.
+assignments are announced during the *Setup Day*.
 
 Objects are provided at the competition for training.
 Teams may share the objects if the participant team does not count with a set of objtects.
@@ -146,7 +141,7 @@ Three types of objects are used in the tasks:
     1. **Consistent Objects**: Objects published on the *Setup Day*, and
 
     1. **Standard Objects**: Objects chosen from the **TBD**.
-These objects published a few months before the *RCJ2024* competition, so that they can be aquired and trained beforehand.
+These objects published a few months before the *iHR2024* competition, so that they can be aquired and trained beforehand.
 
 1. **Unknown Objects**: Any other object that is not in the object list but can be grasped or handled.
 Depending on the competition task, these unknown objects may be used.
@@ -156,7 +151,7 @@ These objects will appear as obstacles during autonomous navigation or additiona
 
 ### Predefined Rooms and Locations
 
-Some tests in the *RCJ2024* involve a *Predefined Location* where people or objects can be found.
+Some tests in the *iHR2024* involve a *Predefined Location* where people or objects can be found.
 There will also be one *door*, named *Entrance*, which lead in and out of the *Arena*.
 Room names, predefined locations, and location classes are announced at the same time as the Rulebook.
 However, if the task begins without the *Door Open*, the *Starting Location* and the *Ending Location* are announced during the *Setup Days*.
@@ -164,7 +159,7 @@ However, if the task begins without the *Door Open*, the *Starting Location* and
 ### Predefined Person Names
 <!-- OPL -->
 
-Some tests in the *RCJ2024* involve memorizing a person’s name.
+Some tests in the *iHR2024* involve memorizing a person’s name.
 All people in the *Arena* have an assigned *Predefined Name* chosen by the TC.
 Predefined names are chosen from the [GPSR Command Generator](https://github.com/johaq/CommandGenerator/tree/master) and will be announced during the *Setup Days*.
 
@@ -197,21 +192,21 @@ It is thus advised to verify your devices for any breaches of this nature.
 
 
 ## Robots
-The robots used in *RCJ2024* must meet the following requirements.
+The robots used in *iHR2024* must meet the following requirements.
 The compliance with these rules will be verified during [*Robot Inspection*](./ri_en.md).
 
 ### Number of Robots
 
-1. **Registration**: The maximum number of robots per team is *two* (2).
-Remember that only robots that have cleared the [*Robot Inspection*](./ri_en.md) can participate during the regular test.
+1. **Registration**: The maximum number of robots per team is *one* (1).
+<!-- Remember that only robots that have cleared the [*Robot Inspection*](./ri_en.md) can participate during the regular test. -->
 
 1. **Regular Tests**: Only one robot is allowed per test. 
 For different test runs, different robots can be used.
 
-1. **Open Challenge**: In the *Open Challenge*, both robots can be used simultaneously.
+<!-- 1. **Open Challenge**: In the *Open Challenge*, both robots can be used simultaneously. -->
 
 ### Robot Specifications
-Robots competing in the *RCJ2024* must comply with security specifications in order to avoid causing any harm while operating.
+Robots competing in the *iHR2024* must comply with security specifications in order to avoid causing any harm while operating.
 
 #### Size and Weight
 
@@ -262,7 +257,7 @@ Teams need to announce this to the TC before every test that involves a start si
 
 ## External devices
 Everything that a team uses during a test and is not part of the robot is considered an *External Device*.
-All *External Devices* must be authorized by the *technical committee* (TC) during [*Robot Inspection*](https://github.com/RoboCupAtHomeJP/AtHome2024/blob/rules/opl/robot_inspection.md).
+All *External Devices* must be authorized by the *technical committee* (TC)
 The TC specifies whether an *External Device* can be used freely or under TC supervision, and determines its impact on scoring.
 
 Note that the use of wireless devices, such as hand microphones and headsets, is not allowed, with the exception of *External Computing* as specified below.
@@ -276,7 +271,7 @@ The use of *External Computing* resources is allowed, but only in the *Arena Net
 Teams must inform the TC about the use of any *External Computing* at least one month before the competition.
 Note, however, that robots must be able to operate safely even if *External Computing* is unavailable.
 
-*External Computing* devices must be placed in the *External Computing Resource Area* (ECRA), which is announced by the TC during the *Setup Days*.
+*External Computing* devices must be placed in the *External Computing Resource Area* (ECRA), which is announced by the TC during the *Setup Day*.
 The organizer may request to the teams to bring a LAN switch to connect to the Arena wireless network in the ECRA.
 <!-- During a *Test Block*, at most two laptops and two people from different teams are allowed in the ECRA simultaneously, one member each of the teams up next.
 No peripherals, such as screens, mice, keyboards, and so forth, are allowed
@@ -291,11 +286,11 @@ Interacting with anything in the ECRA after the TC has given the start signal fo
 
 Teams are allowed to use *External Computing* through the internet connection of the *Arena Network*;
 this includes cloud services or online APIs.
-These must be announced to and approved by the TC one month prior to the competition.
+These must be announced to and approved by the TC during the *Setup Day*.
 
 ## Organization of the Competition
 
-### Competition System
+<!-- ### Competition System
 The competition begins with a *Robot Inspection*, a number of specific tasks and ends with a *Technical Challenge*.
 
 1. **Robot Inspection**: For security, robots are inspected during the *Setup Days*.
@@ -303,11 +298,11 @@ A robot must pass the [*Robot Inspection*](ri_en.md) test so that it is allowed 
 
 1. **Competition Tasks**: All qualified teams that have passed the *Robot Inspection* can participate in *Competition Tasks*.
 
-1. **Open Challenge**: All qualified teams have the right to participate in *Open Challenge* (previously known as *Final*).
+1. **Open Challenge**: All qualified teams have the right to participate in *Open Challenge* (previously known as *Final*). -->
 
-### Schedule
+<!-- ### Schedule
 
-The *RCJ2024* competition will be held over several days which schedule will be published in the [AtHome2024](https://github.com/RoboCupAtHomeJP/AtHome2024) repository.
+The *iHR2024* competition will be held over several days which schedule will be published in the [AtHome2024](https://github.com/RoboCupAtHomeJP/AtHome2024) repository. -->
 
 ### Scoring System
 
@@ -320,23 +315,23 @@ The scoring system has the following constrains:
 
 1. **Regular Tasks**: The maximum total score per task is *500 points* (bonuses included).
 
-1. **Open Challenge**: The score is normalized.
+<!-- 1. **Open Challenge**: The score is normalized. -->
 
 1. **Minimum score**: The minimum total score per test is *0 points*.
 
 In principle, teams cannot receive negative points, except if they receive penalties.
 In particular, penalties for not attending can result in a total negative score.
 
-> [!NOTE]
+<!-- > [!NOTE]
 > *Regular Tasks* scoring is independent from the *Open Challenge* scoring.
-Thus, separate awarding for each challenge will be conducted.
+Thus, separate awarding for each challenge will be conducted. -->
 
 ### Regular Tasks Evaluation
 
 Scoring will be carried out by *two (2) different team members*;
 one from the competing team and one from another team as scorers, following this formula:
-- Team $` (a+n) mod. n `$ : *one* (1) scorer
-- Team $` (1+a+n) mod. n `$ : *one* (1) scorer
+- Team $` (a+n) mod(n) `$ : *one* (1) scorer
+- Team $` (1+a+n) mod(n) `$ : *one* (1) scorer
 
 > [!NOTE]
 > $` n `$ refers to the number of teams.
@@ -362,7 +357,7 @@ For example, if the number of participant teams are *3 teams*, the order will be
 
 ## Procedure during Tests
 
-The competition of *RCJ2024* will be carried out following a predetermined procedure.
+The competition of *iHR2024* will be carried out following a predetermined procedure.
 Please, pay attention to the following points.
 
 ### Safety First!
@@ -589,7 +584,7 @@ For instance, if a task focused on manipulation does not explicitly mention a *D
 
 ### Restart
 
-In *RCJ2024*, teams are allowed to restart as many times as they want within the time limit.
+In *iHR2024*, teams are allowed to restart as many times as they want within the time limit.
 However, the points earned from the completed task right after the restart will be reduced to half.
 After that, points will be given as it is set in the score sheet of the competition task. 
 
@@ -628,4 +623,4 @@ This behavior will be remembered for qualification decisions in future competiti
 
 ### Bonus for outstanding performance
 
-In *RCJ2024*, there will be no for *Bonus for outstanding performance*.
+In *iHR2024*, there will be no for *Bonus for outstanding performance*.
