@@ -1,6 +1,6 @@
 <sub>[READMEへ](../../README.md)</sub>
 
-[日本語](./cml_ja.md) | [English](./cml_en.md)
+[日本語](./sg_ja.md) | [English](./sg_en.md)
 
 # Storing Groceries (SG)
 
