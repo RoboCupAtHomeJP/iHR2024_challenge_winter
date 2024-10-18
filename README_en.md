@@ -16,7 +16,7 @@ Competition Website: https://sites.google.com/view/intelligenthomerobotics/activ
 | Dates | Content |
 |---|---|
 | 11/30 | Competition |
-| 12/01 | Workshop & Conference |
+| 12/01 | Workshop & Presentation |
 
 ### Venue
 
@@ -30,14 +30,14 @@ There are three types of registration.
 | Deadlines | Content |
 | --- | --- |
 | 11/23 | Competition |
-| 11/29 | Workshop & Conference |
+| 11/29 | Paper Submission |
 | 11/23 | Participation |
 
 > [!Note]
 > Registration fees are not applied.
 
 > [!Caution]
-> All participants and/or attendee in the workshop, conference and/or competitions are **required to register individually** in addition to the above registration.
+> All participants and/or attendee in the workshop, presentation and/or competitions are **required to register individually** in addition to the above registration.
 
 Please check and apply from the link below.
 
