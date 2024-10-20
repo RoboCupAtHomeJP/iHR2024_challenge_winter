@@ -28,7 +28,7 @@ Competition Website: https://sites.google.com/view/intelligenthomerobotics/activ
 There are three types of registration.
 
 Participation in the `Workshop & Presentation` is optional.
-However, we actively encourage to the teams to share their on-working researchs or strategies adopted during the  `iHR-C3`.
+However, we actively encourage to the teams to share their on-working researches or strategies adopted during the  `iHR-C3`.
 
 | Deadlines | Content |
 | --- | --- |
