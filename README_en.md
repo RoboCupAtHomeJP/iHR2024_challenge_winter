@@ -1,8 +1,8 @@
 [日本語](README.md) | [English](README_en.md)
 
-# iHR2024 Challenge in Winter
+# 第3回インテリジェントホームロボティクスチャレンジ (iHR-C3)
 
-This repository reflects the "Information" and "Rules" for the iHR2024 Challenge participant teams.
+This repository reflects the "Information" and "Rules" for the iHR-C3 Challenge participant teams.
 
 
 ## Competition Information
@@ -26,6 +26,9 @@ Competition Website: https://sites.google.com/view/intelligenthomerobotics/activ
 ## Registration
 
 There are three types of registration.
+
+Participation in the `Workshop & Presentation` is optional.
+However, we actively encourage to the teams to share their on-working researchs or strategies adopted during the  `iHR-C3`.
 
 | Deadlines | Content |
 | --- | --- |

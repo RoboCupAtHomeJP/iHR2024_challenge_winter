@@ -93,7 +93,7 @@ Although no points are awarded for the corresponding action, it is possible to s
 > Bonus will be scored if one of the main task of the corresponding phase is completed.
 
 **Score Sheet for the Scorer**: (TBD)SG-score_sheet
-<!-- **Score Sheet for the Scorer**: [SG-score_sheet](./doc/iHR2024_SG-score_sheet.pdf) -->
+<!-- **Score Sheet for the Scorer**: [SG-score_sheet](./doc/iHR-C3_SG-score_sheet.pdf) -->
 
 ## Instructions
 
