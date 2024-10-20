@@ -63,8 +63,7 @@ https://sites.google.com/view/intelligenthomerobotics/activity/iHR12#h.kmiowpucv
 
 * [Carry My Luggage](./rules/ALL/cml_ja.md)
 * [Storing Groceries](./rules/ALL/sg_ja.md)
-* (TBD)Restaurant
-<!-- * [Restaurant](./rules/ALL/res_ja.md) -->
+* [Restaurant](./rules/ALL/res_ja.md)
 
 ### Detailed Information
 

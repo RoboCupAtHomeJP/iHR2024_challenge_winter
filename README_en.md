@@ -62,8 +62,7 @@ Important information will be shared through the Discord server.
 
 * [Carry My Luggage](./rules/ALL/cml_en.md)
 * [Storing Groceries](./rules/ALL/sg_en.md)
-* (TBD)Restaurant
-<!-- * [Restaurant](./rules/ALL/res_en.md) -->
+* [Restaurant](./rules/ALL/res_en.md)
 
 ### Detailed Information
 
