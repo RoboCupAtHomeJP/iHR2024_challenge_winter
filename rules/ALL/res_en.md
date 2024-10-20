@@ -4,144 +4,137 @@
 
 # Restaurant
 
-Reference video: https://youtu.be/dzyJ1dHTulc
+Reference video: https://www.youtube.com/watch?v=CmZ_jPVntP8
 
 > [!NOTE]  
 > This is a sample video from the previous competition. The rules may differ from the rules in this year.
 
+
 ## Main Goal
 
-In this task, the robot is expected to assist the operator in transporting the luggage to a car parked outside (imaginary). After the robot grabs the luggage (which is a paper bag), it will follow the operator from a known environment to an unknown environment to support the luggage transport. Then, it will autonomously return to the `starting point` (inside the known environment).
+The robot retrieves and serves orders to several customers in a restaurant previously unknown to the robot.
 
-**Time Limit**: 7 minutes
 
 ## Focus
 
-This task focuses on finger-pointing recognition, manipulation, mapping and navigation in known and unknown environments, human-following, voice dialogue, task planning, etc.
+This task focuses on *Task planning*, *Online mapping*, *Navigation in unknown environments*, *Gesture detection*, *Verbal interaction* and *Object manipulation*
 
-## Settings
 
-- **Location**: An arena environment based on a home environment will be used. The competition will take place both inside and outside the arena. The `inside of the arena` can be mapped in advance (`known environment`), but mapping the `outside` of the arena is prohibited (`unknown environment`).
-- **Starting location**: The start location will be announced on the setup day.
-- **Luggage (paper bags)**: Two bags will be placed near the operator (within 2\[m\] of the robot and visible to it).
-  - **Size**: The bag smaller than in size of 350 x 100 x 350\[mm\] will be used.
-  - **Placement**: The possible placement location will be announced on the setup day. A team member places a bag at the location instructed by `TC` just before the task starts.
-- **Operator**: The operator will point to the paper bag to be used during the competition while standing in front of the robot. The operator will be selected from volunteers.
+## Setup
+
+- **Locations**: This task takes place in a real restaurant fully equipped and in business. When this is not possible, the test can be conducted in any place with the appropriate locations other than the *Arena*. 
+  - **Testing Location**: The Restaurant location will remain secret until the start of the test.
+  - **Starting Location**: The robot starts next to the `Kitchen-bar`. It is a table located near the restaurant’s kitchen.
+  - **Order Location**: The order should be conducted close to the table where the customer is waiting.
+- **People**: Volunteers different from the active team will be required during this task.
+  - **Customers**: There will be at least three (3) customers sit in different tables waiting to be taken their orders. However, during the task at least two (2) orders are required to be implemented.
+  - **Barman**: Awaits at the other side of the `Kitchen-bar` for orders to be placed. The `Professional Barman` assists the robot on request.
+- **Furniture**: The furniture is not standardized and will be kept the same as the restaurant or place selected for the task.
+  - **Kitchen-bar**: A table where the requested objects from the robot will be placed on.
+  - **Customer Area**: The customer will be sit on a not-predefiened chair close to a not-predefiened table.
+- **Objects**: The objects will be selected from the announced object list. There will be no unknown objects.
+  - **Food**: All the objects from the `Food` category will be allowed to be used.
+  - **Drinks**: All the objects from the `Drink` category will be allowed to be used.
+  - **Custom Container**: Team are allowed to use a self-made or preselected container to transport the objects to the customer.
+- **Time Limit**: Fifteen (15) minutes
 
 ## Scenario
 
 ### Starting Phase
 
-1. **Setup**: The `TC` instructs the team to move the robot to the starting position.
-1. **Start**: The `TC` gives the start signal and starts the timer. At the same time, the team completes the final simple setup (pressing the starting button, etc.) and leaves the area. Complex setup procedures such as pressing more than two buttons are not allowed.
-1. **Pointing**: The operator points to the bag that is specified in advance at the same time as the start signal.
-1. **Grasping**:  The robot recognizes the bag pointed to by the operator and grasps it.
+1. **Setup**: The `TC` instructs the team to move the robot to the `starting position`.
+1. **Start**: The `TC` gives the `start signal` and starts the timer. At the same time, the team completes the final simple setup (pressing the starting button, etc.) and leaves the area. Complex setup procedures such as pressing more than two buttons are not allowed.
 
-### Follow-Me Phase
+### Order Phase
 
-1. **Delivery**: When the robot grasps the bag and becomes ready to follow a person, the robot informs the operator that the robot is ready.
-2. **Walking**: The operator starts walking from a known environment towards an unknown environment.
-3. **Follow-Me**: The robot follows the operator. When the operator reaches the goal, the operator will inform the robot that the operator has reached the goal. During the follow-me phase, the robot may face up to three obstacles (bonus, the team selects the obstacles to appear in advance.)
-   - Small objects on the ground (such as building blocks)
-   - Hard-to-see 3D objects (such as chairs or glasses)
-   - Opening and closing barriers (such as guide poles)
+1. **Detection**: The robot need to identifies the customers who want to be assited. Those customers who are waiving their hands.
+2. **Approach Confirmation**: The robot cannot move from the Kitchin-Bar by its own. It needs to confirm with the Barman about its intention to take an order. If the Barman rejects it, the robot may restart the `Detection`. Otherwise, the robot may continue.
+3. **Navigation**: Once the robot gots the Barman confirmation to approach to the customers side, the robot will move autonomously to the cliend who was waiving the hand.
+4. **Order Taking**: When the robot reaches the customer position (close enough so that the customer does not need to get closer to the robot), the robot may take the order. **The number of items to be order are two (2)**.
+5. **Order Confirmation**: The robot needs to confirm the order with the customer or show that the robot understood correctly the order.
+6. **Order Request**: The robot will come back to the Kitchen-Bar, and ask the Barman the items requested from the order. Those items will be placed over the table.
 
-> [!IMPORTANT]
-> (Natural walking) The operator cannot look back to the robot or stop moving when the operator starts walking.
+### Delivery Phase
 
-### Navigation Phase
+1. **Picking**: The robot will grasp the items placed over the table.
+2. **Navigation**: The robot autonomously moves the previous customer.
+3. **Handover**: The robot needs to place the order over the customer's table.
+3. **Return**: After the order has been completed, the robot needs to return to the Kitchen-Bar. The `Order Phase` may be repeated, if there are customers waiting for the ir orders to be taken. (There is a minimum of two (2) orders for this task)
 
-1. **Handover**： The operator receives the bag when the operator and the robot have reached the goal.
-2. **Navigation**: The robot autonomously moves from the `unknown environment` to the `Starting Location` in the `known environment`.
-3. **Goal**: When the robot returns to the `Starting Location`, the task is complete.
-4. **Bonus**: The robot joins at the end of the queue (with 2-4 people) near the goal position.
 
 ## Deus ex Machina
 
-The following Deus ex Machina will be adopted in this task. With Deus ex Machina, although no points are awarded for the corresponding action, it is possible to skip partial tasks with simpler methods and continue with the overall task.
+The following Deus ex Machina will be adopted in this task. 
+Although no points are awarded for the corresponding action, it is possible to skip partial tasks with simpler methods and continue with the overall task.
 
-|Action|Bypassing|
-|------|---------|
-| Bag (reduction) | Limit selection to one of the two bags placed (only one bag is placed). |
-| Handover | The robot makes the operator to hold the selected bag. At this time, the robot informs the operator of the position of the paper bag. |
-| Use markers | Perform following with a marker attached to or held by the operator  |
+| Action | Bypassing |
+| --- | --- |
+| Customer Detection | Perform waiving hand detection with a marker attached to or held by the customer |
+| Navigation to Kitchen-Bar/customer position | The robot can follow a human to reach the Kitchen-Bar/customer position |
+| Order Understanding | Perform oder taking with marker(s) shown by the customer |
+| Pick/Place order items | The robot can request the Barman/customer to place/pick the order to/from the robot |
 
 ## Score Sheet
 
-|Action|Score|
-|------|-----|
+| Action | Score |
+| --- | --- |
 | **Main Task** |  |
-| 1. Starting phase | |
-| &nbsp;&bull;&nbsp;Detect the selected bag | 50 |
-| &nbsp;&bull;&nbsp;Grasp the selected bag | 100 |
-| 2. Follow-me phase | |
-| &nbsp;&bull;&nbsp;Go out of the arena following the operator | 50 |
-| &nbsp;&bull;&nbsp;Arriving at the goal outside the arena | 50 |
-| 3. Navigation phase | |
-| &nbsp;&bull;&nbsp;Autonomously enter the arena | 25 |
-| &nbsp;&bull;&nbsp;Autonomously return to the `starting location` | 25 |
+| 1. Order Phase | |
+| &emsp; - Detect calling or waving customer       | 2x40 |
+| &emsp; - Reach a customer’s table                | 2x40 |
+| &emsp; - Take the order correctly                | 2x40 |
+| &emsp; - Return to Kitchen-Bar                   | 2x15 |
+| 2. Delivery Phase | |
+| &emsp; - Request the ordered items to the Barman | 2x10 |
+| &emsp; - Pick up the given items from the Barman | 2x*n*x22.5 |
+| &emsp; - Return to the previous customer         | 2x15 |
+| &emsp; - Place the items on the table            | 2x*n*x22.5 |
 |  |  |
-| **Bonus Tasks** |  |
-| 2. Follow-me phase | |
-| Avoid small objects on the ground (such as blocks) | 50 |
-| Avoid visually confusing 3D objects (such as chairs or glasses) | 50 |
-| Avoid opening and closing barriers (such as guide posts) | 50 |
-| 3. Navigation phase | |
-| Join at the end of the queue near the goal | 50 |
 | **Penalty** |  |
-| Non-participation (without declaration) | -500 |
+| Not looking at the customer during order taking  | -50 |
+| Non-participation (without declaration)          | -500 |
 |  |  |
-| Total (including bonus tasks) | 500 |
+| Total (including bonus tasks)                    | 500 |
 
 > [!NOTE]
-> Bonus will be scored if one of the main task of the corresponding phase is completed.
+> *n*: number of items grasped/placed.
 
-**Score Sheet for the Scorer**: [CML-score_sheet](./doc/RCJ2024_OPL_CML-score_sheet.pdf)
+> [!CAUTION]
+> If the order was not taken correctly, the following obtained points will be **reducted to half** until the next customer order.
+
+**Score Sheet for the Scorer**: (TBD)RES-score_sheet
+<!-- **Score Sheet for the Scorer**: [RES-score_sheet](./doc/iHR2024_RES-score_sheet.pdf) -->
+
 
 ## Instructions
 
 ### To Volunteer
 
-Volunteers are freely selected by the competing team, and will perform the following tasks:
+Volunteers are from the same team cannot participate during the task, however the active team can select who to be the volunteer.
 
-- Select one (1) volunteer for the `Follow Me` task.
-- Select from two (2) to four (4) people who make a queue near the goal.
+- Select three (3) volunteer to be clients.
+- Select one (1) volunteer to be the Barman.
 - Gather thirty (30) minutes before the test starts.
 - Receive instructions about the task.
-- The guests may follow the orders given by the robot only,
+- The volunteers may follow the **request given by the robot only**,
 and not act by their own.
-
-> [!WARNING]
-> Any information about the guests must not be shared with the competing team.
-Such action may result to the penalty in the scoring or disqualification of the team.
-
-> [!NOTE]
-> If the competing team is not able to gather enough volunteers,
-support from other teams will be requested.
 
 ### To Scorer
 
-Scorers are selected according to the *General Rules* [Scoring System](./gr_en.md#scoring-system) and will perform the following tasks:
+Scorers are selected according to the *General Rules* [Scoring System](./grr_en.md#scoring-system) and will perform the following tasks:
 
 - Gather **thirty (30) minutes** before the test starts.
-- Receive instructions about the score sheet, guests' information and command.
+- Receive instructions about the score sheet.
 - Score the competition.
 - Confirm the score with the other scorers and TC.
 - Submit the score sheet to the TC.
 
-> [!WARNING]
-> Any information about the guests must not be shared with the competing team.
-Such action may result to the penalty in the scoring or disqualification of the team.
-
 ### To TC
 
 - During `Setup Day`:
-  - Select the robot's `starting location` and announce it.
-  - Select which bag to be grasped and announce it.
-  - Announce obstacles to be used.
+  - Check the `Testing Location`
+  - Announce the `Food` and `Drink` category objects.
 - Just before the test:
-  - Place obstacles, if the team requests for bonus task during `Follow-Me` phase.
+  - Prepare the `Food` and `Drink` category objects. 
 - During the test:
-  - Instruct where the bag needs to be placed.
-  - Instruct the bag that the operator should point at.
-  - Announce the *goal location* in `Follow-Me` phase.
+  - Check whether the `Testing Location` was previously mapped or not.
