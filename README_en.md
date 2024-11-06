@@ -36,9 +36,6 @@ However, we actively encourage to the teams to share their on-working researches
 | 11/29 | Paper Submission |
 | 11/23 | Participation |
 
-> [!Note]
-> Registration fees are not applied.
-
 > [!Caution]
 > All participants and/or attendee in the workshop, presentation and/or competitions are **required to register individually** in addition to the above registration.
 
