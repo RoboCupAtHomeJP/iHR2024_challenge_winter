@@ -108,7 +108,8 @@
 > [!NOTE]
 > ボーナススコアは，対象となるフェーズのメインタスクを最低一つ達成した場合にのみ獲得可能である．
 
-**得点係用のスコアシート**: [CML-score_sheet](./doc/RCJ2024_OPL_CML-score_sheet.pdf)
+<!-- **得点係用のスコアシート**: (TBD)CML-score_sheet -->
+**得点係用のスコアシート**: [CML-score_sheet](./doc/iHR-C3_CML-score_sheet.pdf)
 
 
 ## 指示 (Instructions)

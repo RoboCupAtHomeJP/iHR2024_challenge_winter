@@ -108,7 +108,8 @@ Although no points are awarded for the corresponding action, it is possible to s
 > [!NOTE]
 > Bonus will be scored if one of the main task of the corresponding phase is completed.
 
-**Score Sheet for the Scorer**: [CML-score_sheet](./doc/RCJ2024_OPL_CML-score_sheet.pdf)
+<!-- **Score Sheet for the Scorer**: (TBD)CML-score_sheet -->
+**Score Sheet for the Scorer**: [CML-score_sheet](./doc/iHR-C3_CML-score_sheet.pdf)
 
 
 ## Instructions

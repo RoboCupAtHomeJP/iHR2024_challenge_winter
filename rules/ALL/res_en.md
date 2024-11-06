@@ -102,8 +102,8 @@ Although no points are awarded for the corresponding action, it is possible to s
 > [!CAUTION]
 > If the order was not taken correctly, the following obtained points will be **reducted to half** until the next customer order.
 
-**Score Sheet for the Scorer**: (TBD)RES-score_sheet
-<!-- **Score Sheet for the Scorer**: [RES-score_sheet](./doc/iHR-C3_RES-score_sheet.pdf) -->
+<!-- **Score Sheet for the Scorer**: (TBD)RES-score_sheet -->
+**Score Sheet for the Scorer**: [RES-score_sheet](./doc/iHR-C3_RES-score_sheet.pdf)
 
 
 ## Instructions
