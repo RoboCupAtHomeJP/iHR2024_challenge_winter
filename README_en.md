@@ -66,5 +66,5 @@ Important information will be shared through the Discord server.
 
 ### Detailed Information
 
-* (TBD)Object List
-<!-- * [Object List](./rules/ALL/sd/object_list.md) -->
+<!-- * (TBD)Object List -->
+* [Object List](./rules/ALL/doc/object_list.pdf)
