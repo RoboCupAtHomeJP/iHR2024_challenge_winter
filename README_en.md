@@ -1,8 +1,8 @@
 [日本語](README.md) | [English](README_en.md)
 
-# iHR2024 Challenge in Winter
+# 第3回インテリジェントホームロボティクスチャレンジ (iHR-C3)
 
-This repository reflects the "Information" and "Rules" for the iHR2024 Challenge participant teams.
+This repository reflects the "Information" and "Rules" for the iHR-C3 Challenge participant teams.
 
 
 ## Competition Information
@@ -27,14 +27,14 @@ Competition Website: https://sites.google.com/view/intelligenthomerobotics/activ
 
 There are three types of registration.
 
+Participation in the `Workshop & Presentation` is optional.
+However, we actively encourage to the teams to share their on-working researches or strategies adopted during the  `iHR-C3`.
+
 | Deadlines | Content |
 | --- | --- |
 | 11/23 | Competition |
 | 11/29 | Paper Submission |
 | 11/23 | Participation |
-
-> [!Note]
-> Registration fees are not applied.
 
 > [!Caution]
 > All participants and/or attendee in the workshop, presentation and/or competitions are **required to register individually** in addition to the above registration.
@@ -54,6 +54,9 @@ Important information will be shared through the Discord server.
 
 ## Rules
 
+> [!Note]
+> Rules may be updated based on discussion with other teams.
+
 ### Overall Rules
 
 * [General Rules and Regulations](./rules/ALL/grr_en.md)
@@ -61,12 +64,10 @@ Important information will be shared through the Discord server.
 ### Tasks
 
 * [Carry My Luggage](./rules/ALL/cml_en.md)
-* (TBD)Storing Groceries
-<!-- * [Storing Groceries](./rules/ALL/sg_en.md) -->
-* (TBD)Restaurant
-<!-- * [Restaurant](./rules/ALL/res_en.md) -->
+* [Storing Groceries](./rules/ALL/sg_en.md)
+* [Restaurant](./rules/ALL/res_en.md)
 
 ### Detailed Information
 
-* (TBD)Object List
-<!-- * [Object List](./rules/ALL/sd/object_list.md) -->
+<!-- * (TBD)Object List -->
+* [Object List](./rules/ALL/doc/iHR-C3_object_list.pdf)

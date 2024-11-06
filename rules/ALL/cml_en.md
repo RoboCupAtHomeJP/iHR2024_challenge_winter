@@ -108,7 +108,8 @@ Although no points are awarded for the corresponding action, it is possible to s
 > [!NOTE]
 > Bonus will be scored if one of the main task of the corresponding phase is completed.
 
-**Score Sheet for the Scorer**: [CML-score_sheet](./doc/RCJ2024_OPL_CML-score_sheet.pdf)
+<!-- **Score Sheet for the Scorer**: (TBD)CML-score_sheet -->
+**Score Sheet for the Scorer**: [CML-score_sheet](./doc/iHR-C3_CML-score_sheet.pdf)
 
 
 ## Instructions
@@ -129,7 +130,7 @@ support from other teams will be requested.
 
 ### To Scorer
 
-Scorers are selected according to the `General Rules` [Scoring System](./gr_en.md#scoring-system) and will perform the following tasks:
+Scorers are selected according to the `General Rules` [Scoring System](./grr_en.md#scoring-system) and will perform the following tasks:
 
 - Gather **thirty (30) minutes before** the test starts.
 - Receive instructions about the score sheet, guests' information and command.

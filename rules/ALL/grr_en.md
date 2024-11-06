@@ -4,7 +4,7 @@
 
 # General Rules and Regulations
 
-These are the general rules and regulations for the competition in the Intelligent Home Robotics 2024 Challenge in Winter (referred to as *iHR2024* below).
+These are the general rules and regulations for the competition in the Intelligent Home Robotics 2024 Challenge in Winter (referred to as *iHR-C3* below).
 Every rule in this section can be considered to implicitly include the term “unless stated other-wise”.
 This means that **additional or contrary rules**, in particular with respect to the specification of tests, 
 have a higher priority than those mentioned in the general rules and regulations.
@@ -121,7 +121,7 @@ The minimal configuration consists of:
 
 ### Objects
 
-Some tests in the *iHR2024* involve recognizing and manipulating objects.
+Some tests in the *iHR-C3* involve recognizing and manipulating objects.
 The TC will compile a list of objects for this purpose;
 the list will contain a *picture of the each object*, as well as its *official name* and *Object Category* (for example, *Noodle* belongs to the *Food* category).
 Most objects are likely to be lightweight and easy to grasp with one hand.
@@ -141,7 +141,7 @@ Three types of objects are used in the tasks:
     1. **Consistent Objects**: Objects published on the *Setup Day*, and
 
     1. **Standard Objects**: Objects chosen from the **TBD**.
-These objects published a few months before the *iHR2024* competition, so that they can be aquired and trained beforehand.
+These objects published a few months before the *iHR-C3* competition, so that they can be aquired and trained beforehand.
 
 1. **Unknown Objects**: Any other object that is not in the object list but can be grasped or handled.
 Depending on the competition task, these unknown objects may be used.
@@ -151,7 +151,7 @@ These objects will appear as obstacles during autonomous navigation or additiona
 
 ### Predefined Rooms and Locations
 
-Some tests in the *iHR2024* involve a *Predefined Location* where people or objects can be found.
+Some tests in the *iHR-C3* involve a *Predefined Location* where people or objects can be found.
 There will also be one *door*, named *Entrance*, which lead in and out of the *Arena*.
 Room names, predefined locations, and location classes are announced at the same time as the Rulebook.
 However, if the task begins without the *Door Open*, the *Starting Location* and the *Ending Location* are announced during the *Setup Days*.
@@ -159,7 +159,7 @@ However, if the task begins without the *Door Open*, the *Starting Location* and
 ### Predefined Person Names
 <!-- OPL -->
 
-Some tests in the *iHR2024* involve memorizing a person’s name.
+Some tests in the *iHR-C3* involve memorizing a person’s name.
 All people in the *Arena* have an assigned *Predefined Name* chosen by the TC.
 Predefined names are chosen from the [GPSR Command Generator](https://github.com/johaq/CommandGenerator/tree/master) and will be announced during the *Setup Days*.
 
@@ -192,7 +192,7 @@ It is thus advised to verify your devices for any breaches of this nature.
 
 
 ## Robots
-The robots used in *iHR2024* must meet the following requirements.
+The robots used in *iHR-C3* must meet the following requirements.
 The compliance with these rules will be verified during [*Robot Inspection*](./ri_en.md).
 
 ### Number of Robots
@@ -206,7 +206,7 @@ For different test runs, different robots can be used.
 <!-- 1. **Open Challenge**: In the *Open Challenge*, both robots can be used simultaneously. -->
 
 ### Robot Specifications
-Robots competing in the *iHR2024* must comply with security specifications in order to avoid causing any harm while operating.
+Robots competing in the *iHR-C3* must comply with security specifications in order to avoid causing any harm while operating.
 
 #### Size and Weight
 
@@ -302,7 +302,7 @@ A robot must pass the [*Robot Inspection*](ri_en.md) test so that it is allowed 
 
 <!-- ### Schedule
 
-The *iHR2024* competition will be held over several days which schedule will be published in the [AtHome2024](https://github.com/RoboCupAtHomeJP/AtHome2024) repository. -->
+The *iHR-C3* competition will be held over several days which schedule will be published in the [AtHome2024](https://github.com/RoboCupAtHomeJP/AtHome2024) repository. -->
 
 ### Scoring System
 
@@ -357,7 +357,7 @@ For example, if the number of participant teams are *3 teams*, the order will be
 
 ## Procedure during Tests
 
-The competition of *iHR2024* will be carried out following a predetermined procedure.
+The competition of *iHR-C3* will be carried out following a predetermined procedure.
 Please, pay attention to the following points.
 
 ### Safety First!
@@ -584,7 +584,7 @@ For instance, if a task focused on manipulation does not explicitly mention a *D
 
 ### Restart
 
-In *iHR2024*, teams are allowed to restart as many times as they want within the time limit.
+In *iHR-C3*, teams are allowed to restart as many times as they want within the time limit.
 However, the points earned from the completed task right after the restart will be reduced to half.
 After that, points will be given as it is set in the score sheet of the competition task. 
 
@@ -623,4 +623,4 @@ This behavior will be remembered for qualification decisions in future competiti
 
 ### Bonus for outstanding performance
 
-In *iHR2024*, there will be no for *Bonus for outstanding performance*.
+In *iHR-C3*, there will be no for *Bonus for outstanding performance*.
