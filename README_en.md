@@ -54,6 +54,9 @@ Important information will be shared through the Discord server.
 
 ## Rules
 
+> [!Note]
+> Rules may be updated based on discussion with other teams.
+
 ### Overall Rules
 
 * [General Rules and Regulations](./rules/ALL/grr_en.md)

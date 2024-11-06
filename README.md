@@ -52,6 +52,9 @@ https://sites.google.com/view/intelligenthomerobotics/activity/iHR12#h.kmiowpucv
 
 ## ルール
 
+> [!Note]
+> 参加チームの議論を通して，ルールが更新される可能性がある．
+
 ### Overall Rules
 
 * [General Rules and Regulations](./rules/ALL/grr_ja.md)
