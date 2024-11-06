@@ -73,10 +73,10 @@ Although no points are awarded for the corresponding action, it is possible to s
 | **Main Task** |  |
 | &emsp; - Navigating to the table                                  | 10 |
 | &emsp; - Perceiving object and categorizing it correctly          | 5x10 |
-| &emsp; - Picking up an object for transportation to the cabinet   | 5x18 |
+| &emsp; - Picking up an object for transportation to the cabinet   | 5x16 |
 | &emsp; - Reasoning the location to place the handled object       | 5x10 |
-| &emsp; - Placing an object in the cabinet                         | 5x18 |
-| &emsp; - Placing an object next to similar objects on the cabinet | 5x18 |
+| &emsp; - Placing an object in the cabinet                         | 5x16 |
+| &emsp; - Placing an object next to similar objects on the cabinet | 5x10 |
 |  |  |
 | **Bonus Tasks** |  |
 | &emsp; - Picking up a tiny object  | 30 |
