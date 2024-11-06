@@ -65,4 +65,4 @@ https://sites.google.com/view/intelligenthomerobotics/activity/iHR12#h.kmiowpucv
 ### Detailed Information
 
 <!-- * (TBD)Object List -->
-* [Object List](./rules/ALL/doc/object_list.pdf)
+* [Object List](./rules/ALL/doc/iHR-C3_object_list.pdf)

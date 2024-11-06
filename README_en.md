@@ -67,4 +67,4 @@ Important information will be shared through the Discord server.
 ### Detailed Information
 
 <!-- * (TBD)Object List -->
-* [Object List](./rules/ALL/doc/object_list.pdf)
+* [Object List](./rules/ALL/doc/iHR-C3_object_list.pdf)
