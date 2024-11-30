@@ -107,8 +107,8 @@
 > [!CAUTION]
 > 注文が正しく取られなかった場合，次の顧客の注文まで，獲得したポイントは**半減**される．
 
-**得点係用のスコアシート**: (TBD)RES-score_sheet
-<!-- **得点係用のスコアシート**: [RES-score_sheet](./doc/iHR-C3_RES-score_sheet.pdf) -->
+<!-- **得点係用のスコアシート**: (TBD)RES-score_sheet -->
+**得点係用のスコアシート**: [RES-score_sheet](./doc/iHR-C3_RES-score_sheet.pdf)
 
 
 ## 指示 (Instructions)
