@@ -71,3 +71,25 @@ Important information will be shared through the Discord server.
 
 <!-- * (TBD)Object List -->
 * [Object List](./rules/ALL/doc/iHR-C3_object_list.pdf)
+
+
+## Score
+
+### Task Scores
+
+| Awards | Team Name |
+| --- | --- |
+| First Place | TIDBots |
+| Second Place | eR@sers |
+| Thrid Place | TRAIL |
+
+
+![](rules/ALL/doc/iHR-C3_SG-score.svg)
+
+
+### Special Awards
+
+| Awards | Team Name |
+| --- | --- |
+| Best Manipulation Award | TaMC-HSR |
+| Best Hospitality Award | SOBITS |

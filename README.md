@@ -69,3 +69,25 @@ https://sites.google.com/view/intelligenthomerobotics/activity/iHR12#h.kmiowpucv
 
 <!-- * (TBD)Object List -->
 * [Object List](./rules/ALL/doc/iHR-C3_object_list.pdf)
+
+
+## 採点
+
+### 競技
+
+| 受賞 | チーム名 |
+| --- | --- |
+| 優勝 | TIDBots |
+| 準優勝 | eR@sers |
+| 第三位 | TRAIL |
+
+
+![](rules/ALL/doc/iHR-C3_SG-score.svg)
+
+
+### 特別賞
+
+| 受賞 | チーム名 |
+| --- | --- |
+| Best Manipulation Award | TaMC-HSR |
+| Best Hospitality Award | SOBITS |
